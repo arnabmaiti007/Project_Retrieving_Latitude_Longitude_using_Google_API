@@ -7,7 +7,7 @@ import ssl
 
 api_key = False
 # My API Key is not enabled for billing But I can put my own API key here after enabling billing.
-# api_key = 'AIzaSyC_JquO072WUxZ3Uft0UgAtr5g9qrI07Dg'
+# api_key = 'AIzaSyC_Jq......UgAtr5g9qrI07Dg'
 
 # Using another API key I found on Internet which is free
 if api_key is False:
