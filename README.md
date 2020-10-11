@@ -2,7 +2,7 @@
 ## Introduction:
 Here I have written a code using Python Programming Language to Retrieve Latitude and Longitude of a place using Google API
 
-# Description:
+## Description:
 
 1. First we import the necessary Libraries. Like- urllib, json, ssl.
 2. Then we set the Google API Key if available. But i don't have an paid API service, so I found a free API like service and set it up as an example only.
